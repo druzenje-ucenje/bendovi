@@ -5,3 +5,8 @@ Lista omiljenih bendova
 * Roxette
 * Laid Back
 * Chris Rea
+
+#Andrija
+* Laibach
+* Sabaton
+* Tool
