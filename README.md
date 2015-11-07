@@ -11,3 +11,8 @@ Lista omiljenih bendova
 * Sabaton
 * Tool
 * Rolling Stones
+
+#Vesna
+* Goblini
+* Kaiser Chieves
+* Vlado Georgijev
