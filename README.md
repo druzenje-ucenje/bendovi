@@ -27,4 +27,7 @@ Lista omiljenih bendova
 * Zare i Goci
 * Vukovi sa Manjace
 * Baja mali Knindza
-:
+
+
+
+#Pevaci
