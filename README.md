@@ -31,3 +31,4 @@ Lista omiljenih bendova
 
 
 #Pevaci
+* Bora Drljaca 
