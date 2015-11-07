@@ -17,6 +17,7 @@ Lista omiljenih bendova
 * Dara Bubamara
 * Dragan Kojic Keba
 * Milos Bojanic
+
 #Vesna
 * Goblini
 * Kaiser Chieves
