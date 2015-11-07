@@ -11,3 +11,8 @@ Lista omiljenih bendova
 * Sabaton
 * Tool
 * Rolling Stones
+
+#Zeljko
+* Dara Bubamara
+* Dragan Kojic Keba
+* Milos Bojanic
