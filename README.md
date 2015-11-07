@@ -31,3 +31,9 @@ Lista omiljenih bendova
 
 
 #Pevaci
+
+#Vesna
+* Mirko
+* Slavko
+* Baja
+* Gogany
