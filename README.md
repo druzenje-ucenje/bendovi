@@ -31,3 +31,5 @@ Lista omiljenih bendova
 
 
 #Pevaci
+* Lepa Lukic
+* Braca Bajic
