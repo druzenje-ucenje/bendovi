@@ -32,3 +32,4 @@ Lista omiljenih bendova
 
 #Pevaci
 * Saban Bajramovic
+* Damir Urban
