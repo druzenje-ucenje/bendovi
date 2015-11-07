@@ -37,3 +37,5 @@ Lista omiljenih bendova
 * Slavko
 * Baja
 * Gogany
+* Mirke i Kosta
+* Gile
