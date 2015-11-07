@@ -10,3 +10,4 @@ Lista omiljenih bendova
 * Laibach
 * Sabaton
 * Tool
+* Rolling Stones
