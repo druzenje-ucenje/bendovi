@@ -12,7 +12,18 @@ Lista omiljenih bendova
 * Tool
 * Rolling Stones
 
+
 #Zeljko
 * Dara Bubamara
 * Dragan Kojic Keba
 * Milos Bojanic
+#Vesna
+* Goblini
+* Kaiser Chieves
+* Vlado Georgijev
+
+#Vlada
+* Zare i Goci
+* Vukovi sa Manjace
+* Baja mali Knindza
+:
