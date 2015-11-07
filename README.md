@@ -11,3 +11,8 @@ Lista omiljenih bendova
 * Sabaton
 * Tool
 * Rolling Stones
+
+#Vlada
+* Zare i Goci
+* Vukovi sa Manjace
+* Baja mali Knindza
