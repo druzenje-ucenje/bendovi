@@ -33,4 +33,4 @@ Lista omiljenih bendova
 #Pevaci
 * Bora Drljaca 
 
-* * Visestruki osvajac nagrade za najboljeg pevaca "OVNOV ROG" u Brckom, kao mali upao u kazan od rakije gde se izrodio njegov neverovatni krajisnicki talenat *
+* *Visestruki osvajac nagrade za najboljeg pevaca "OVNOV ROG" u Brckom, kao mali upao u kazan od rakije gde se izrodio njegov neverovatni krajisnicki talenat*
